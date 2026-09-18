@@ -1,0 +1,13 @@
+# 编译产物
+/weaver
+/bin/
+*.exe
+
+# 测试产物
+/tmp-test/
+*.test
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
